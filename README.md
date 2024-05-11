@@ -4,6 +4,8 @@ Custom preference for FreeCAD
 
 ## Dependencies
 
+- FreeCAD 0.21.0
+
 - Glass
 - OpenDark
 
