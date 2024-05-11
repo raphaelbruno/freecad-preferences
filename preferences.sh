@@ -28,6 +28,7 @@ install(){
   echo "- Installing files..."
   cp -r ./preferences/.config ~/
   cp -r ./preferences/.local ~/
+  cp -r ./overrides/.local ~/
 }
 
 uninstall(){
