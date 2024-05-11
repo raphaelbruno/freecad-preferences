@@ -20,12 +20,18 @@ Part Design
 Sketcher
 ![Sketcher](assets/screenshot-sketcher.png)
 
+## After clone
+
+```shell
+cd freecad-preferences
+git submodule update --init --recursive
+```
+
 ## Install
 
 - Linux
 
 ```shell
-chmod +x preferences.sh
 ./preferences.sh install
 ```
 
@@ -42,7 +48,6 @@ chmod +x preferences.sh
 - Linux
 
 ```shell
-chmod +x preferences.sh
 ./preferences.sh uninstall
 ```
 
