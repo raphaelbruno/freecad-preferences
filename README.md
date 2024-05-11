@@ -6,7 +6,6 @@ Custom preference for FreeCAD
 
 - Glass
 - OpenDark
-- PieMenu
 
 ## Tested
 
