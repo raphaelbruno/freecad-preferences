@@ -1,0 +1,6 @@
+[submodule "preferences/.local/share/FreeCAD/Mod/Glass"]
+	path = preferences/.local/share/FreeCAD/Mod/Glass
+	url = https://github.com/triplus/Glass
+[submodule "preferences/.local/share/FreeCAD/Mod/OpenDark"]
+	path = preferences/.local/share/FreeCAD/Mod/OpenDark
+	url = https://github.com/obelisk79/OpenDark
