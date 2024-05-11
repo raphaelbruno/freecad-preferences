@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+
+  <name>User-Saved Preference Packs</name>
+
+  <description>Generated automatically -- edits may be lost when saving new preference packs. To distribute one or more of these packs:
+    1) copy the entire SavedPreferencePacks directory to a convenient location,
+    2) rename the directory (usually to the name of the preference pack you are distributing),
+    3) delete any subfolders containing packs you don't want to distribute,
+    4) use git to initialize the directory as a git repository,
+    5) push it to a remote git host,
+    6) activate Developer Mode in the Addon Manager,
+    7) use Developer Tools in the Addon Manager to update the metadata file,
+    8) add, commit, and push the updated package.xml file,
+    9) add your remote host to the custom repositories list in the Addon Manager preferences,
+   10) use the Addon Manager to install your preference pack locally for testing.</description>
+
+  <license>All Rights Reserved</license>
+
+  <content>
+    <preferencepack>
+      <name>Custom</name>
+    </preferencepack>
+  </content>
+
+</package>
